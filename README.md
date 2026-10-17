@@ -14,8 +14,6 @@ https://x.com/ashisle375/status/2111335435595309432
 
 ※カスタムファームは、Raspberry Pi Pico（RP2040）向けのものになります。
 
-※カスタムと言っても、Swtich向けに不要なUSB情報を削除しただけの微細な変更です。
-
 #### 詳細
 
 - 🎮 **Joystick → Switch Pad** — JoystickをSwitch用パッドとして使用するための設定
