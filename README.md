@@ -156,12 +156,7 @@ HID Remapperを開発・公開してくださった作者およびコントリ�
 
 ## 📜 License
 
+ [MIT License](https://github.com/shimazakiatsushi-svg/HIDremapper-for-E2miniController/blob/main/LICENSE)
+
 オリジナルプロジェクトのライセンスおよび著作権表示については、[jfedor2/hid-remapper](https://github.com/jfedor2/hid-remapper) を参照してください。
 
-本プロジェクトのソースコードやバイナリを再配布する場合は、適用されるライセンス条件と必要な著作権表示を確認してください。
-
----
-
-**Enjoy your custom controller setup!**
-
-*Customize your inputs. Expand your possibilities.*
