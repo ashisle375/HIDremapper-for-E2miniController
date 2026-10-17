@@ -1,6 +1,6 @@
 # ⚡ HID Remapper for E2mini Controller
 
-イーグレットツーミニ向けコントローラーをSwitchで使う事が出来ます。
+イーグレットツーミニ向けコントローラーをSwitchで使う事が出来ます。（PCでも使用可能です）
 
 トラックボール&パッドはSwitchにマウスとて認識されます。
 
