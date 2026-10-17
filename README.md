@@ -4,6 +4,8 @@
 
 カスタムファームは、Raspberry Pi Pico（RP2040）向けのものになります。
 
+※カスタムと言っても、Swtich向けに不要なUSB情報を削除しただけの微細な変更です。
+
 ## ✨ Features
 
 - 🎮 **Joystick → Switch Pad** — JoystickをSwitch用パッドとして使用するための設定
