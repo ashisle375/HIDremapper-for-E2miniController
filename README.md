@@ -45,8 +45,8 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 - [AliExpress — 購入したボードの製品ページ](https://ja.aliexpress.com/item/1005012443032183.html?spm=a2g0o.order_list.order_list_main.5.7ecc585aWqqbq6&gatewayAdapt=glo2jpn)
 
-上記はUSB Hostのコネクター付きなので、自分でRaspberry Pi PicoボードにUSBコネクタを付ける手間が不要になります。
-もちろん、通常のRaspberry Pi Picoボードに自分でUSB Hostのコネクターを付けても構いません。
+上記はオリジナルのHIDremapperファームウェア書き込み済みで、配線などの手間も不要です。
+もちろん、通常のRaspberry Pi Picoボードに自分でUSBコネクターやUSBケーブルを配線しても構いません。
 
 ### 必要なもの
 
@@ -59,7 +59,7 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 ## 🔥 Flashing the Firmware
 
-※パドル＆トラックボールをSwitchで使用しない場合（Joystickのみの使用や、パドル＆トラックボールをPCで使用する場合）はファームウェアの書き換えは不要です。
+※HIDremapper書き込み済みのボード（購入例）で、パドル＆トラックボールをSwitchで使用しない場合（Joystickのみの使用や、パドル＆トラックボールをPCで使用する場合）はファームウェアの書き換えは不要です。
 
 ### 1. UF2ファイルをダウンロード
 
