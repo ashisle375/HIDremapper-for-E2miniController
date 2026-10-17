@@ -6,6 +6,10 @@
 
 ※カスタムと言っても、Swtich向けに不要なUSB情報を削除しただけの微細な変更です。
 
+実際の使用例⬇
+
+https://x.com/ashisle375/status/2111103570678599724
+
 ## ✨ Features
 
 - 🎮 **Joystick → Switch Pad** — JoystickをSwitch用パッドとして使用するための設定
@@ -41,7 +45,7 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 ### Raspberry Pi Pico — RP2040
 
-本プロジェクトでは、Raspberry Pi Pico互換のRP2040ボードを使用します。
+Raspberry Pi Pico互換のRP2040ボードを使用します。
 
 購入したハードウェアの例：
 
