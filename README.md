@@ -3,6 +3,7 @@
 ### Custom Firmware for EagletIImini Joystick, Trackball & Mouse Input 
 
 イーグレットツーミニ向けコントローラーをSwitchで使うためのカスタムHID Remapperファームウェアや設定ファイルを提供します。
+
 カスタムファームは、Raspberry Pi Pico（RP2040）向けのものになります。
 
 ## ✨ Features
@@ -60,7 +61,7 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 ## 🔥 Flashing the Firmware
 
-※パドル＆トラックボールをSwitchで使用しない場合（Joystickのみの使用や、パドル＆トラックボールをPCで使用する場合）はFirmwareの書き換えは不要です。
+※パドル＆トラックボールをSwitchで使用しない場合（Joystickのみの使用や、パドル＆トラックボールをPCで使用する場合）はファームウェアの書き換えは不要です。
 
 ### 1. UF2ファイルをダウンロード
 
@@ -138,16 +139,6 @@ Switch側での認識や動作は、USB HIDの出力形式や接続環境によ�
 - トラックボールの移動がマウスカーソルに反映されること
 - パッドに割り当てられた入力が意図した動作になること
 - 接続先の機器でマウスとして認識されること
-
-## 🛠️ Custom Firmware Development
-
-本プロジェクトは、オリジナルのHID Remapperをベースに、特定のコントローラー用途に合わせたカスタマイズを行うものです。
-
-カスタマイズ内容：
-
-- USB HID Report Descriptorの変更（keyboard mouse選択時）
-- Joystick向けの入力マッピングと調整
-- パドル＆トラックボール向けの入力マッピングと調整
 
 ## 🙏 Acknowledgements
 
