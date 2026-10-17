@@ -17,19 +17,19 @@
 
 ### Custom Firmware
 
-[**⬇ remapper.uf2 — ファームウェアをダウンロード**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/remapper.uf2)
+[**⬇ remapper.uf2 — ファームウェアをダウンロード**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/remapper.uf2)
 
 Raspberry Pi Pico（RP2040）向けのカスタムファームウェアです。
 
 ### Configuration 1 — Joystick as Switch Pad
 
-[**📄 hid-remapper-config-Joystick_as_SwitchPad.json**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/hid-remapper-config-Joystick_as_SwitchPad.json)
+[**📄 hid-remapper-config-Joystick_as_SwitchPad.json**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/hid-remapper-config-Joystick_as_SwitchPad.json)
 
 JoystickをSwitch用パッドとして使用するための設定ファイルです。
 
 ### Configuration 2 — Trackball & Pad as Mouse
 
-[**📄 hid-remapper-config-tackball_and_pad_as_Mouse.json**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/hid-remapper-config-tackball_and_pad_as_Mouse.json)
+[**📄 hid-remapper-config-tackball_and_pad_as_Mouse.json**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/hid-remapper-config-tackball_and_pad_as_Mouse.json)
 
 トラックボールとパッドをマウスとして使用するための設定ファイルです。
 
@@ -63,7 +63,7 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 ### 1. UF2ファイルをダウンロード
 
-[**⬇ ファームウェアをダウンロード**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/remapper.uf2)
+[**⬇ ファームウェアをダウンロード**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/remapper.uf2)
 
 ### 2. BOOTSELモードで接続
 
@@ -104,7 +104,7 @@ Google ChromeやMicrosoft Edgeなど、WebHIDに対応したブラウザーを�
 
 JoystickをSwitch用パッドとして使用するための設定です。
 
-**[⬇ Joystick設定JSONをダウンロード](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/hid-remapper-config-Joystick_as_SwitchPad.json)**
+**[⬇ Joystick設定JSONをダウンロード](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/hid-remapper-config-Joystick_as_SwitchPad.json)**
 
 ### 設定方法
 
@@ -121,7 +121,7 @@ Switch側での認識や動作は、USB HIDの出力形式や接続環境によ�
 
 トラックボールとパッドをマウスとして使用するための設定です。
 
-**[⬇ Trackball & Pad設定JSONをダウンロード](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/hid-remapper-config-tackball_and_pad_as_Mouse.json)**
+**[⬇ Trackball & Pad設定JSONをダウンロード](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/V1.0/hid-remapper-config-tackball_and_pad_as_Mouse.json)**
 
 ### 設定方法
 
