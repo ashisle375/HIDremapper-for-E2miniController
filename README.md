@@ -1,8 +1,6 @@
 # ⚡ HID Remapper for E2mini Controller
 
-### Custom Firmware for EagletIImini Joystick, Trackball & Mouse Input 
-
-イーグレットツーミニ向けコントローラーをSwitchで使うためのカスタムHID Remapperファームウェアや設定ファイルを提供します。
+イーグレットツーミニ向けコントローラーをSwitchで使うためのカスタムHID Remapperファームウェアや設定ファイルです。
 
 カスタムファームは、Raspberry Pi Pico（RP2040）向けのものになります。
 
