@@ -1,18 +1,15 @@
 # ⚡ HID Remapper for E2mini Controller
 
-### Custom Firmware for Joystick, Trackball & Mouse Input
+### Custom Firmware for EagletIImini Joystick, Trackball & Mouse Input 
 
-**Remap. Customize. Play.**
-
-Raspberry Pi Pico（RP2040）向けにカスタマイズした、HID Remapperファームウェアです。
-
-本プロジェクトでは、イーグレットツーミニ向けコントローラーなどの利用を想定し、USB HIDの出力動作をカスタマイズしています。JoystickをSwitch用パッドとして使用する設定や、トラックボールとパッドをマウスとして扱う設定を提供します。
+イーグレットツーミニ向けコントローラーをSwitchで使うためのカスタムHID Remapperファームウェアや設定ファイルを提供します。
+カスタムファームは、Raspberry Pi Pico（RP2040）向けのものになります。
 
 ## ✨ Features
 
 - 🎮 **Joystick → Switch Pad** — JoystickをSwitch用パッドとして使用するための設定
 - 🖱️ **Trackball & Pad → Mouse** — トラックボールとパッドをマウスとして使用するための設定
-- 🔧 **Custom HID Firmware** — USB HIDレポートやデバイスの出力動作をカスタマイズ
+- 🔧 **Custom HID Firmware** — トラックボールとパッドをSwitchにマウスとして認識させるカスタムファーム
 
 ## 🚀 Downloads
 
