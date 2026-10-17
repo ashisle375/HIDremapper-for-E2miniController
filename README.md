@@ -63,7 +63,7 @@ JoystickをSwitch用パッドとして使用するための設定ファイルで
 
 ### 1. UF2ファイルをダウンロード
 
-[**Download remapper.uf2 →**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/remapper.uf2)
+[**⬇ ファームウェアをダウンロード**](https://github.com/ashisle375/HIDremapper-for-E2miniController/releases/download/v1.0/remapper.uf2)
 
 ### 2. BOOTSELモードで接続
 
